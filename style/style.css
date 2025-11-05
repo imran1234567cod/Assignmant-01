@@ -129,3 +129,44 @@ body {
 
 /* section2 close */
 
+/* box contant start  */
+.contant {
+  gap: 50px;
+}
+.contant-box {
+  max-width: 1140px;
+  height: 342px;
+  margin: 137px auto;
+}
+.box-contant {
+  display: flex;
+  justify-content: space-between;
+}
+.box-contant-title {
+  padding-bottom: 50px;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+.box-containar {
+  width: 366px;
+  border-radius: 15px;
+  padding: 24px;
+  margin-right: 24px;
+  border: 0;
+  background-color: #ffffff;
+  color: #000000;
+}
+.rount-img {
+  border-radius: 50%;
+}
+.gap {
+  padding-bottom: 24px;
+}
+.costomar {
+  display: flex;
+  gap: 14px;
+}
+/* box contant end */
+
+
