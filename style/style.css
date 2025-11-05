@@ -1,0 +1,63 @@
+* {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: #f5f8ff;
+}
+/* header section  */
+.header {
+  background-image: url('../B12A01-landing-launchpad/Assets/Hero-bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* nav style  */
+.title {
+  padding-top: 50px;
+  margin: 0px 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav-title {
+  font-weight: 800;
+  font-size: 34px;
+  color: #4e47ff;
+}
+.btn {
+  background-color: #4e47ff;
+  color: #ffff;
+  font-weight: bold;
+  padding: 12px 36px;
+  border-radius: 10px;
+  border: none;
+}
+.btn:hover {
+  color: rgb(252, 252, 252);
+  transform: scale(1.05);
+  cursor: pointer;
+  opacity: 0.9;
+  background-color: rgb(191, 0, 255);
+  box-shadow: 0 8px 20px rgb(54, 54, 56);
+}
+.b-margin {
+  margin-top: 37px;
+}
+.bannar {
+  display: inline-block;
+  text-align: center;
+  align-items: center;
+  width: 905px;
+  height: 237px;
+  margin: 158px 267px 152px 267px;
+}
+.bannar-content {
+  font-weight: bold;
+  font-size: 64px;
+  color: #252432;
+}
+
+/* header close */
